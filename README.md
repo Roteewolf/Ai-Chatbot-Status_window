@@ -5,7 +5,8 @@ The skills of an ill-fated, forgotten creator.
 이 기술은 2024년 7월~8월 초 공개되었습니다. 
 뤼튼에서 명확하게 구조화를 한 상태창을 최초로 만들어 낸, 세계적으로 그동안 쓰이지 않던 기술을 최초로 개척한 날이었습니다.
 이제 Ai Chatbot Status 라는 이름은 기존의 개념과 혼동되기 때문에 사용되지 않습니다.
-특히 Trpg의 개념과 자주 혼동되기에 해당 문제를 해결하고자 변경되었습니다.
+특히 Trpg의 개념이나 LLM이 이미 알던 개념류와 자주 혼동되기에 해당 문제를 해결하고자
+MCH(Meta Context HUD)로 변경되었습니다.
 
 최초의 작품들 몇 가지:
 https://agent.wrtn.ai/2nsopw
